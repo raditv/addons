@@ -1,2 +1,1 @@
-# addons
-Odoo 10 Addons
+Kumpulan addons custom odoo 10
